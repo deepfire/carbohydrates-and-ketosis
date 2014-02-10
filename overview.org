@@ -1,0 +1,287 @@
+#+startup: hidestars odd
+#+title: Carbohydrate metabolism and ketogenic diet lifestyle
+#+author: Samium Gromoff
+#+email: <_deepfire@feelingofgreen.ru>
+#+url: https://github.com/deepfire/carbohydrates-and-ketosis/blob/master/overview.org
+
+* Direct effects of carbohydrates
+*** Blood glucose level maintenance (diabetes)
+***** Insulin resistence
+
+      ..is so well-known it barely needs references, but will add them later, anyway.
+
+***** Direct beta-cell damage
+******* 2001 Maedler et al. - Glucose Induces β-Cell Apoptosis Via Upregulation of the Fas Receptor in Human Islets
+
+        #+BEGIN_QUOTE
+        In vitro exposure of islets from nondiabetic organ donors to high glucose levels
+        induced Fas expression, caspase-8 and -3 activation, and β-cell apoptosis.
+        #+END_QUOTE
+
+******* 2003 Robertson et al. - Glucose Toxicity in β-Cells: Type 2 Diabetes, Good Radicals Gone Bad, and the Glutathione Connection
+
+        #+BEGIN_QUOTE
+        Chronic exposure to hyperglycemia can lead to cellular dysfunction that may become
+        irreversible over time, a process that is termed glucose toxicity. Our perspective
+        about glucose toxicity as it pertains to the pancreatic β-cell is that the
+        characteristic decreases in insulin synthesis and secretion are caused by decreased
+        insulin gene expression.
+        ...
+        Because reactive oxygen species are produced via oxidative phosphorylation during
+        anaerobic glycolysis, via the Schiff reaction during gly- cation, via glucose
+        autoxidation, and via hexosamine metabolism under supraphysiological glucose
+        concentrations, we hypothesize that chronic oxidative stress is an important mechanism
+        for glucose toxicity. Support for this hypothesis is found in the observations that
+        high glucose concentrations increase intraislet peroxide levels, that islets contain
+        very low levels of antioxidant enzyme activities, and that adenoviral overexpression of
+        antioxidant enzymes in vitro in islets, as well as exogenous treatment with
+        antioxidants in vivo in animals, protect the islet from the toxic effects of excessive
+        glucose levels
+        #+END_QUOTE
+
+*** Cardio-vascular system
+***** ...to consider
+******* Vascular lining damage
+
+        #+BEGIN_QUOTE
+        Weaken junctions between the smooth endothelial cells lining your arteries, making the
+        Teflon lining more vulnerable to nicks.
+        #+END_QUOTE
+
+        - source: Dr. Mehmet Oz, MD, Columbia University
+
+******* Small blood vessel damage
+
+        #+BEGIN_QUOTE
+        Flip off a switch in your small blood vessels. Normally your body automatically regulates
+        flow of nutrients into your small blood vessels. They sort of work on back-up (like a
+        generator for when the power goes out) so they can function even when your big vessels
+        might be experiencing problems. But high levels of glucose turn off that automatic
+        regulation—and let a little high blood pressure make nicks and tears in the junctions
+        between cells in your smaller blood vessels.
+        #+END_QUOTE
+
+        - source: Dr. Mehmet Oz, MD, Columbia University
+
+*** Molecular-level damage
+***** Glycation
+***** ...to consider
+******* Glucose <-> red blood cell attachment
+
+        #+BEGIN_QUOTE
+        Trigger a chemical process in your red blood cells, which transport oxygen in your
+        bloodstream, that causes your red blood cells to want to hold onto oxygen more
+        tightly. That keeps oxygen from getting to your tissues. When that happens, the glucose
+        (sugar), like a lost puppy, attaches to whatever it can find—most likely proteins in your
+        blood and tissues. These proteins deposit in tissues, which leads to the development of
+        cataracts, joint abnormalities, and lung problems.
+        #+END_QUOTE
+
+        - source: Dr. Mehmet Oz, MD, Columbia University
+
+*** Psychological instability
+***** Neurotoxicity
+***** Brain energy "roller-coaster"
+***** ...to consider
+******* Nerve damage
+
+        #+BEGIN_QUOTE
+        Get into your nerves and cause a reaction that makes your nerves swell, become compressed,
+        and lose their ability to function—usually in the parts of your body farthest from your
+        brain, your hands and feet.
+        #+END_QUOTE
+
+        - source: Dr. Mehmet Oz, MD, Columbia University
+
+*** Immune system
+***** White blood cell efficiency
+******* 1971 van Oss - Influence of Glucose Levels on the In Vitro Phagocytosis of Bacteria by Human Neutrophils
+
+        #+BEGIN_QUOTE
+        The strongest phagocytic activity occurred at glucose concentrations of 50 and 100mg/100 ml.
+        #+END_QUOTE
+
+
+        #+BEGIN_QUOTE
+        It was found that high glucose levels (200, 400, and 800 mg of glucose/100 ml)
+        significantly depressed the phagocytosis of Staphylococcus epidermidis, S. aureus,
+        and Escherichia coli. At very low glucose levels, a somewhat decreased phagocytic
+        activity was noted. The strongest phagocytic activity occurred at glucose
+        concentrations of 50 and 100 mg/100 ml.  A second effect noted at the higher (200,
+        400 and 800 mg/100 ml) glucose concentrations was a decreased adhesiveness of the
+        neutrophils to solid surfaces.
+        #+END_QUOTE
+
+******* 1973 Sanchez, Reeser, Lau, Yahiku, Willard, McMillan, Cho, Magie, Register - Role of sugars in human neutrophilic phagocytosis
+
+        #+BEGIN_QUOTE
+        Oral 1OO-g portions of carbohydrate from glucose, fructose, sucrose, honey, or orange
+        juice all significantly decreased the capacity of neutrophils to engulf bacteria as
+        measured by the slide technique.  Starch ingestion did not have this effect.  The
+        decrease in phagocytic index was rapid following the ingestion of simple
+        carbohydrates.  The greatest effects occurred between 1 and 2 hr postprandial, but
+        the values were still significantly below the fasting control values 5 hr after
+        feeding (P < 0.001).
+        ...
+        These data suggest that the function and not the number of phagocytes was altered by
+        ingestion of sugars.  This implicates glucose and other simple carbohydrates in the
+        control of phagocytosis and shows that the effects last for at least 5 hr. On the
+        other hand, a fast of 36 or 60 hr significantly increased (P < 0.001) the phagocytic
+        index.
+        #+END_QUOTE
+
+*** Psychological dependency
+***** General
+******* 2003 Yanovski - Sugar and Fat: Cravings and Aversions
+
+        #+BEGIN_QUOTE
+        Food cravings are extremely common, particularly among women. Cravings are frequently
+        reported for specific types of foods, including chocolate and foods high in both
+        sugar and fat. Cravings for specific macronutrients, such as carbohydrate, have been
+        postulated to result from a physiological need to alter neuro- transmitters in such
+        states as eating disorders, affective disorders or obesity. However, studies of such
+        cravings are often confounded by differing sensory properties of high and low
+        carbohydrate foods. There is some evidence that sweet, high fat foods are preferred
+        by women with binge-eating disorders and that those preferences are mediated by the
+        endogenous opioid system. Aversion to fat is seen primarily in women with anorexia
+        nervosa.  However, it is possible that changes in fat preference may be achieved
+        through behavioral or pharmacological approaches. An understanding of food cravings
+        and aversions may lead to improved methods for the prevention and treatment of
+        obesity and eating disorders.
+        #+END_QUOTE
+
+***** Glucose -> Insulin -> Tryptophan -> Serotonin
+******* 1971 Fernstrom, Wurtman - Brain serotonin content: increase following ingestion of carbohydrate diet
+
+        #+BEGIN_QUOTE
+        In the rat, the injection of insulin or the consumption of carbohy- drate causes
+        sequential increases in the concentrations of tryptophan in the plasma and the brain
+        and of serotonin in the brain. Serotonin-containing neurons may thus participate in
+        systems wh:reby the rat.brain integrates information about the metabolic state in its
+        relation to control of homeostatis and behavior.
+        #+END_QUOTE
+
+******* 1980 Crandall, Fernstom - Acute Changes in Brain Tryptophan and Serotonin After Carbohydrate or Protein Ingestion by Diabetic Rats
+
+        #+BEGIN_QUOTE
+        In normal, fasting rats, intubation with glucose did not alter serum tryptophan, but
+        it did reduce serum concentrations of the large neutral amino acids, tryptophan's
+        competitors for brain uptake.
+
+        The serum ratio of tryptophan to the sum of these competitors, which predicts brain
+        tryptophan uptake, was thus increased.  Brain tryptophan, serotonin (which is
+        synthesized from tryptophan), and 5-hydroxyindoleacetic acid levels also increased.
+        Such increases in brain serotonin are potentially important, since serotonin is
+        neurotransmitter.  Changes in its level may indicate altered release by neurons and,
+        thus, modified brain function.
+
+        In contrast, glucose intubation of fasting streptozotocin-diabetic rats elicited only
+        a small increase in the serum tryptophan ratio.  Brain tryptophan increased slightly;
+        no changes occurred in brain serotonin or in 5-hydroxyindoleacetic acid.
+
+        Similar effects were noted when fasting diabetic rats consumed a single, carbohydrate
+        meal.  However, brain indoles did increase after carbohydrate ingestion in diabetic
+        rats that received an insulin injection at the time food was presented.
+
+        Effects of ingesting a protein-containing meal were also studied.  In normal rats,
+        consumption of this meal increased the serum tryptophan ratio slightly.  Brain
+        tryptophan and serotonin levels were unchanged.
+
+        In diabetic rats, ingestion of the protein-containing meal often lowered the serum
+        tryptophan ratio.  Brain tryptophan also fell in diabetic rats when the serum
+        tryptophan ratio was reduced, but brain 5-hydroxyindoles did not fall.
+
+        The data demonstrate that the absence of a carbohydrate-induced increment in brain
+        indole levels follows indirectly from the absence of the insulin-induced rise in the
+        serum tryptophan ratio.
+
+        The diabetic rat's inability to experience normal carbohydrate-induced increments in
+        brain serotonin suggests that brain functions, normally dependent on such
+        neurochemical signals, may be abnormal.
+        #+END_QUOTE
+
+******* 2003 Wurtman, Wurtman, Regan, McDermott, Tsay, Breu - Effects of normal meals rich in carbohydrates or proteins on plasma tryptophan and tyrosine ratios
+
+        #+BEGIN_QUOTE
+        Results: The carbohydrate-rich and protein-rich breakfasts had significantly
+        different effects on both the plasma tryptophan-LNAA and tyrosine-LNAA ratios (each P
+        < 0.01). Among the 8 subjects who consumed both breakfasts, the median difference for
+        tryptophan:LNAA was 54% (range: 36–88%) and for tyrosine:LNAA was 28% (range:
+        10–64%). Insulin concentrations rose significantly after the carbohydrate but not
+        after the protein meal.
+
+        Conclusions: High-carbohydrate and high-protein breakfasts similar to those Americans
+        normally eat can cause substantial differences in the plasma tryptophan ratio and
+        thus, probably, in brain tryptophan concentrations and serotonin synthesis. Such
+        meals also change the plasma tyrosine ratio and may thereby modify catecholamine
+        synthesis.
+        #+END_QUOTE
+
+***** ...to consider
+******* Glucose -> Dopamine
+******* Tryptophan
+********* 2000 Markus et al. - The bovine protein a-lactalbumin increases the plasma ratio of tryptophan to the other large neutral amino acids, and in vulnerable subjects raises brain serotonin activity, reduces cortisol concentration, and improves mood under stress
+
+          #+BEGIN_QUOTE
+          Results: The plasma Trp-LNAA ratio was 48% higher after the a-lactalbumin diet than
+          after the casein diet (P= 0.0001). In stress-vulnerable subjects this was accompanied
+          by higher prolactin concentrations (P = 0.001), a decrease in cortisol (P = 0.036),
+          and reduced depressive feelings (P = 0.007) under stress.
+
+          Conclusions: Consumption of a dietary protein enriched in tryp- tophan increased the
+          plasma Trp-LNAA ratio and, in stress- vulnerable subjects, improved coping ability,
+          probably through alter ations in brain serotoni
+          #+END_QUOTE
+
+********* XXX
+
+          - http://www.now-university.com/Library/Zimmerman/088746.htm
+
+******* XXX
+        - http://evolutionarypsychiatry.blogspot.ru/2011/09/carbs-and-serotonin-connection-after.html
+*** Physical endurance
+***** Glycogen reliance, VO2
+******* 2012 Attia - How a low carb diet affected my athletic performance (Part 4)
+*** Overeating
+***** Satiety regulatory mechanisms
+*** Obesity
+
+    Lots of data here.
+
+*** Cancer
+
+    Seyfried articles go here.
+
+* Secondary effects of carbohydrates
+*** Aging
+***** Causes
+      - Free radicals <- Excess energy intake <- Overeating
+*** Insulin resistance
+***** Causes
+      - Chronically elevated insulin levels <- (Poor) Blood glucose level maintenance
+* Extra avenues
+*** Tryptophan
+
+    #+BEGIN_QUOTE
+    Has anyone read Potatoes not Prozac? Eating a high protien diet during the day and a small
+    potato with its skin on before bed helps the brain utilize tryptophan.
+    #+END_QUOTE
+
+* Sources
+*** Primary
+***** Thomas Seyfried
+***** Mehmed Oz
+
+      Sharecare co-creator Dr. Oz is Vice-Chair and Professor of Surgery at Columbia
+      University. He directs the Cardiovascular Institute and Complementary Medicine Program at
+      New York Presbyterian Hospital. He is also the Emmy Winning host of the nationally
+      syndicated talk show, "The Dr. Oz Show". He has authored or co-authored over 400 original
+      publications, book chapters, and medical books and has received several patents. He
+      performs 100 heart operations annually.
+
+*** Secondary
+***** ketotic.org
+***** Wikipedia
+      - [fn:1]
+* Footnotes
+[fn:1] http://en.wikipedia.org/wiki/Ketogenic_diet
